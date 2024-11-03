@@ -2,7 +2,8 @@
 ## JS/Frontend Developer
 ## Contact information:
 **Phone:** +79822068931  
-**E-mail:** 18e.v69@gmail.com
+**E-mail:** 18e.v69@gmail.com  
+**GitHub:** 18ev69
 ## Briefly About Myself:
 I don’t see any prospects for development in my current profession, so I’m exploring new types of work. My goal is to learn everything new and interesting.  
 My strengths are:  
