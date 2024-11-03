@@ -24,4 +24,5 @@ function evenOrOdd(number) {
 ## Courses:
 RS School. JS/Frontend Development Course (in progress).
 ## Languages:
-Russian - Native
+Russian - Native  
+English (A1)
